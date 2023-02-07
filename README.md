@@ -1,1 +1,1 @@
-New Change made
+Handle conflicts
